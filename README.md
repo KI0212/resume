@@ -1,3 +1,3 @@
 # Resume
 
-HTMLl Project
+HTML Project
